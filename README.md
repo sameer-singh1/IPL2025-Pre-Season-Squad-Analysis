@@ -72,9 +72,3 @@ The **IPL 2025 Power BI Dashboard** provides a comprehensive analysis of team an
 The **IPL 2025 Power BI Dashboard** provides deep insights into **team and player performances**, highlighting areas of **strength and improvement**. Implementing the above recommendations can help **teams optimize their strategies, improve performance, and increase their chances of success** in future seasons.
 
 ---
-
-## 📢 Feedback & Contributions
-We welcome feedback and contributions! Feel free to raise issues or suggest improvements via **GitHub Issues** or by submitting **pull requests**.
-
-🚀 *Happy Analyzing!*
-
